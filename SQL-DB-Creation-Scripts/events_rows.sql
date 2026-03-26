@@ -1,0 +1,14 @@
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('50 Free', '50', 'Freestyle');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('100 Free', '100', 'Freestyle');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('200 Free ', '200', 'Freestyle');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('500 Free', '500', 'Freestyle');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('1000 Free', '1000', 'Freestyle');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('1650 Free', '1650', 'Freestyle');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('200 Fly', '200', 'Butterfly');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('100 Back', '100', 'Backstroke');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('100 Breast', '100', 'Breastroke');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('200 Breast', '200', 'Breastroke');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('200 IM', '200', 'Individual Medley');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('400 IM', '400', 'Individual Medley');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('200 Back', '200', 'Backstroke');
+INSERT INTO public.events (event_name, distance, stroke) VALUES ('100 Fly', '100', 'Butterfly');
